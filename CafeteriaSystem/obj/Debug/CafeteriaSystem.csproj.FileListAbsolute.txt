@@ -1,0 +1,78 @@
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe.config
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\bin\Debug\CafeteriaSystem.pdb
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Properties.Resources.resources
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.csproj.GenerateResource.Cache
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.exe
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.pdb
+c:\users\gul\documents\visual studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Dashboard.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddCategory.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddProduct.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllProducts.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllSales.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.CashForm.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.UpdateProucts.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Login.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Register.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewSaleItems.resources
+C:\Users\Gul\Documents\Visual Studio 2012\Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe.config
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.exe
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.pdb
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\bin\Debug\CafeteriaSystem.pdb
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddCategory.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddProduct.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.CashForm.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Dashboard.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Login.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Properties.Resources.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.Register.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.UpdateProucts.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllProducts.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllSales.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewSaleItems.resources
+F:\Visual Studio Projects\CafeteriaSystem\CafeteriaSystem\obj\Debug\CafeteriaSystem.csproj.GenerateResource.Cache
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe.config
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.exe
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.pdb
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.pdb
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.csprojResolveAssemblyReference.cache
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddCategory.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddProduct.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.CashForm.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Dashboard.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Login.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Properties.Resources.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Register.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.UpdateProucts.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllProducts.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllSales.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewSaleItems.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.csproj.GenerateResource.Cache
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe.config
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.exe
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.pdb
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.pdb
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.csprojResolveAssemblyReference.cache
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddCategory.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.AddProduct.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.CashForm.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Dashboard.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Login.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Properties.Resources.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.Register.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.UpdateProucts.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllProducts.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewAllSales.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.ViewSaleItems.resources
+D:\mitesh\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.csproj.GenerateResource.Cache
+D:\project waste\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\bin\Debug\CafeteriaSystem.exe.config
+D:\project waste\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.exe
+D:\project waste\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.pdb
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.printbill.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.forgetpassword.resources
+D:\CafeteriaManagementSystem-master\CafeteriaManagementSystem-master\CafeteriaSystem\obj\Debug\CafeteriaSystem.aboutus.resources
